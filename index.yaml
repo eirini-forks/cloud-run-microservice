@@ -2,12 +2,12 @@ apiVersion: v1
 entries:
   korifi:
   - apiVersion: v2
-    created: "2025-08-06T13:42:04.742346202Z"
+    created: "2025-09-18T14:08:21.620287641Z"
     description: A Helm chart to deploy all Korifi components
-    digest: 32afa3904395c78afa981b9d3c1bc384deaf51dafcc3e16b1b56f64e58b8f6ca
+    digest: b944817bc8558743ea76aa29ad023b19a9fdd78aae5b1a6a4b71983565153140
     name: korifi
     type: application
     urls:
     - https://eirini-forks.github.io/cloud-run-microservice/korifi-0.16.0.tgz
     version: 0.16.0
-generated: "2025-08-06T13:42:04.734631039Z"
+generated: "2025-09-18T14:08:21.617320184Z"
